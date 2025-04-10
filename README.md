@@ -5,7 +5,9 @@
 This is the Python version of NanoLib with an example application. <br>
 The NanoLib offers an easy to use library to control Nanotec devices.
 
-[www.nanotec.de](https://www.nanotec.de/)
+**[www.nanotec.de](https://www.nanotec.de/)** 
+
+**[NanoLib Python User Manual V1.3.0](https://rock-technologies.com/Downloads/ABW/Simplenotes/NanoLib-Python_User_Manual_V1.3.0.pdf)**
 
 ## Example Application
 ### Overview and Structure
