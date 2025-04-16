@@ -1,0 +1,2 @@
+nanotec_nanolib_linux @ https://rock-technologies.com/Downloads/ABW/NanoLib/nanolib_python_linux_1.3.0.tar.gz#sha256=63cef7f63cece6732c8d4c8483050788a11fd8e88848d8999bb898c104f63b4a
+wheel==0.45.1
